@@ -5,7 +5,9 @@ body {
     display: flex;
     align-items: center;
 }
-
+h3{
+    margin-bottom: 0;
+}
 .avatar {
     width: 150px;
     background: linear-gradient(45deg, #ff9e00, #ff0a54) border-box;
